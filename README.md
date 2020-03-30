@@ -1,84 +1,83 @@
-# data-science-journey
+# My Data Science Journey
 Path to my self-taught education in Data Science
 
-About
+### About
 
-Content
+### Content
 
-Cirriculum
+### Cirriculum
 
-Math 
-Linear Algebra 
-Linear Algebra - Foundations to Frontiers
-Applications of Linear Algebra Part 1
-Applications of Linear Algebra Part 2
-Single Variable Calculus
-Calculus 1A: Differentiation
-Calculus 1B: Integration
-Calculus 1C: Coordinate Systems & Infinite Series
-Multivariable Calculus 
-MIT OCW Multivariable Calculus
-Probability and Statistics
-Introduction to Probability
-Introduction to Statistics: Descriptive Statistics
-Introduction to Statistics: Probability
-Introduction to Statistics: Inference
+#### Math 
+* Linear Algebra 
+  * [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)
+  * [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-of-linear-algebra-part-1)
+  * [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-of-linear-algebra-part-2)
+* Single Variable Calculus
+  * [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
+  * [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
+  * [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
+* Multivariable Calculus 
+  * [MIT OCW Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+* Probability and Statistics
+  * [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)
+  * [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-to-statistics-descriptive-statistic-2)
+  * [Introduction to Statistics: Probability](https://www.edx.org/course/introduction-to-statistics-probability-2)
+  * [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-to-statistics-inference-5)
 
-Data Wrangling 
-Data Wrangling with MongoDB
+#### Data Wrangling 
+* [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
 
-Big Data
-Intro to Hadoop and MapReduce
-Deploying a Hadoop Cluster
+#### Big Data
+* [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+* [Deploying a Hadoop Cluster](https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000)
 
-Coding
-Python
-R
+#### Coding
+* Python
+* R
 
-Kaggle Projects in R
-Exploratory Analysis - Zillow
-Exploring Survival on the Titanic
+#### Kaggle Projects in R
+* [Exploratory Analysis - Zillow](https://www.kaggle.com/philippsp/exploratory-analysis-zillow)
+* [Exploring Survival on the Titanic](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
 
-
-Kaggle Projects in Python
-
-
-DataCamp Career Track
-Data Analyst with R
-Introduction to R
-Introduction to the Tidyverse
-Introduction to Importing Data in R
-Intermediate Importing Data in R
-Cleaning Data in R
-Introduction to Data in R
-Intermediate R
-Exploratory Data Analysis in R
-Case Study: Exploratory Data Analysis in R
-Introduction to SQL
-Joining Data in SQL
-Data Manipulation with data.table in R
-Joining Data with data.table in R
-Data Visualization with ggplot2 (Part 1)
-Visualization Best Practices in R
-Correlation and Regression in R
-Modeling with Data in the Tidyverse
-Categorical Data in the Tidyverse
-Communicating with Data in the Tidyverse
-Data Analyst with Python
+#### Kaggle Projects in Python
 
 
-Micro Master Georgia Tech OMSA
-Computing for Data Analysis
-Data Analytics for Business
-Introduction to Analytics Modeling
+#### DataCamp Career Track
+* [Data Analyst with R](https://learn.datacamp.com/career-tracks/data-analyst-with-r?version=2)
+  * [Introduction to R]()
+  * [Introduction to the Tidyverse]()
+  * [Introduction to Importing Data in R]()
+  * [Intermediate Importing Data in R]()
+  * [Cleaning Data in R]()
+  * [Introduction to Data in R]()
+  * [Intermediate R]()
+  * [Exploratory Data Analysis in R]()
+  * [Case Study: Exploratory Data Analysis in R]()
+  * [Introduction to SQL]()
+  * [Joining Data in SQL]()
+  * [Data Manipulation with data.table in R]()
+  * [Joining Data with data.table in R]()
+  * [Data Visualization with ggplot2 (Part 1)]()
+  * [Visualization Best Practices in R]()
+  * [Correlation and Regression in R]()
+  * [Modeling with Data in the Tidyverse]()
+  * [Categorical Data in the Tidyverse]()
+  * [Communicating with Data in the Tidyverse]()
+  * [Data Analyst with Python]()
+
+
+#### Micro Master Georgia Tech OMSA
+* [Computing for Data Analysis]()
+* [Data Analytics for Business]()
+* [Introduction to Analytics Modeling]()
 
 Capstone Projects
 
-Data Science E-Learning Mentor
-Virgilio
+#### Data Science E-Learning Mentor
+* [Virgilio](https://github.com/virgili0/Virgilio)
 
-Books 
-R for Data Science
-R in Action (2nd ed.)
-Efficient R Programming
-The Elements of Statistical Learning (2nd ed.)
+#### Books 
+* [R for Data Science]
+* [R in Action (2nd ed.)]
+* [Efficient R Programming]
+* [The Elements of Statistical Learning (2nd ed.)]
