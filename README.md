@@ -53,9 +53,11 @@ Track   | Courses | Duration | Effort | Progress
 [Data Analyst with Python](https://learn.datacamp.com/career-tracks/data-analyst-with-python) | 16 courses | 60 hours | 8 - 10 hours/week | [Done](https://www.datacamp.com/statement-of-accomplishment/track/0669ef2ccd7fb3ed2076355b97b0c0af35271c07)
 
 ### Micro Master Georgia Tech OMSA
-* [Computing for Data Analysis]()
-* [Data Analytics for Business]()
-* [Introduction to Analytics Modeling]()
+Courses | Duration | Effort | Progress
+------- | -------- | ------ | --------
+[Computing for Data Analysis](https://courses.edx.org/courses/course-v1:GTx+CSE6040x+1T2019/course/) | 5 months | 10 - 12 hours/week | [Done](https://courses.edx.org/certificates/c246dfc3f8ce4a0eb721023cdf34a0e6)
+[Data Analytics for Business](https://courses.edx.org/courses/course-v1:GTx+MGT6203x+1T2020/course/) | 5 months | 10 - 12 hours/week | In Progress
+[Introduction to Analytics Modeling]() | 5 months | 10 - 12 hours/week | Upcoming
 
 Capstone Projects
 
