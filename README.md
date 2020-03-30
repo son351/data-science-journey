@@ -4,12 +4,15 @@
 ### About
 My name is David, lives in Ho Chi Minh City, the south of Vietnam. I've been working as a Project Manager at YOMI Studio for the last 5 years - a digital product agency that builds products to grow clients' businesses. Also, I focus my time and efforts to help build our own's products that gave me many valuable lessons.
 
+
 When products grow, I find myself facing a new challenge that dealing with data. Some questions immediately come to my mind when having data are:
 * What to do with those data? 
 * What are the insights that can help bring more value to the product and the business?
 * How and where should we start?
 ...
+
 One quote from Andrew Ng once said "Some of the most successful businesses succeed by exploiting their users." and I believe that's true, user-centric is the key and you have to understand your users to bring them more value, that will lead to the success of a business.
+
 
 This project is a place for me to keep track of my learning. Not all resources record here, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term).
 
