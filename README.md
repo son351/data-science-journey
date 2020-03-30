@@ -70,14 +70,6 @@ Courses | Duration | Effort | Progress
 * R
 
 
-## Kaggle Projects in R
-* [Exploratory Analysis - Zillow](https://www.kaggle.com/philippsp/exploratory-analysis-zillow)
-* [Exploring Survival on the Titanic](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
-
-
-## Kaggle Projects in Python
-
-
 ## DataCamp Career Track
 Track   | Courses | Duration | Effort | Progress
 ------- | ------- | -------- | ------ | --------
@@ -93,8 +85,13 @@ Courses | Duration | Effort | Progress
 [Introduction to Analytics Modeling]() | 5 months | 10 - 12 hours/week | Upcoming
 
 
-## Data Science E-Learning Mentor
-* [Virgilio](https://github.com/virgili0/Virgilio)
+## Kaggle Projects in R
+* [Exploratory Analysis - Zillow](https://www.kaggle.com/philippsp/exploratory-analysis-zillow)
+* [Exploring Survival on the Titanic](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
+
+
+## Kaggle Projects in Python
+
 
 
 ## Books 
@@ -102,7 +99,4 @@ Courses | Duration | Effort | Progress
 * [R in Action (2nd ed.)](https://www.manning.com/books/r-in-action-second-edition)
 * [Efficient R Programming](https://csgillespie.github.io/efficientR/)
 * [The Elements of Statistical Learning (2nd ed.)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/)
-
-
-## Capstone Projects
 
