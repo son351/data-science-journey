@@ -11,7 +11,7 @@ When products grow, I find myself facing a new challenge that dealing with data.
 * How and where should we start?
 * ...
 
-One quote from Andrew Ng once said "Some of the most successful businesses succeed by exploiting their users." and I believe that's true, user-centric is the key and you have to understand your users to bring them more value, that will lead to the success of a business.
+One quote from Andrew Ng once said **"Some of the most successful businesses succeed by exploiting their users."** and I believe that's true, user-centric is the key and you have to understand your users to bring them more value, that will lead to the success of a business.
 
 
 This project is a place for me to keep track of my learning. Not all resources record here, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term).
