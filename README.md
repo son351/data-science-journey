@@ -1,6 +1,9 @@
 # My Data Science Journey
 #### Path to my self-taught education in Data Science
 
+![Image](https://images.unsplash.com/photo-1439396874305-9a6ba25de6c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80)
+
+
 ## About Me
 My name is David, lives in Ho Chi Minh City, the south of Vietnam. I've been working as a Project Manager at YOMI Studio for the last 5 years - a digital product agency that builds products to grow clients' businesses. Also, I focus my time and efforts to help build our own's products that gave me many valuable lessons.
 
@@ -24,45 +27,45 @@ Thanks to many good resources from MOOC, especially [Virgilio](https://github.co
 #### Linear Algebra 
 Courses | Duration | Effort | Progress
 ------- | -------- | -------| -------- 
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) | 5 months | 10 - 12 hours/week | In Progress
-[Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-of-linear-algebra-part-1) | 5 months | 10 - 12 hours/week | In Progress
-[Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-of-linear-algebra-part-2) | 5 months | 10 - 12 hours/week | In Progress
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) | 15 weeks | 8 hours/week | To Do
+[Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-of-linear-algebra-part-1) | 5 weeks | 4 hours/week | To Do
+[Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-of-linear-algebra-part-2) | 4 weeks | 5 hours/week | In To Do
 
 
 #### Single Variable Calculus
 Courses | Duration | Effort | Progress
 ------- | -------- | -------| -------- 
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 5 months | 10 - 12 hours/week | In Progress
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 5 months | 10 - 12 hours/week | In Progress
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 5 months | 10 - 12 hours/week | In Progress
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | To Do
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 13 weeks | 6-10 hours/week | To Do
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 13 weeks | 6-10 hours/week | To Do
 
 
 #### Multivariable Calculus 
 Courses | Duration | Effort | Progress
 ------- | -------- | -------| -------- 
-[MIT OCW Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 5 months | 10 - 12 hours/week | In Progress
+[MIT OCW Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 15 weeks | 8 hours/week | To Do
 
 
 #### Probability and Statistics
 Courses | Duration | Effort | Progress
 ------- | -------- | -------| -------- 
-[Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo) | 5 months | 10 - 12 hours/week | In Progress
-[Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-to-statistics-descriptive-statistic-2) | 5 months | 10 - 12 hours/week | In Progress
-[Introduction to Statistics: Probability](https://www.edx.org/course/introduction-to-statistics-probability-2) | 5 months | 10 - 12 hours/week | In Progress
-[Introduction to Statistics: Inference](https://www.edx.org/course/introduction-to-statistics-inference-5) | 5 months | 10 - 12 hours/week | In Progress
+[Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo) | 16 weeks | 12 hours/week | To Do
+[Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-to-statistics-descriptive-statistic-2) | 5 weeks | 6 - 8 hours/week | To Do
+[Introduction to Statistics: Probability](https://www.edx.org/course/introduction-to-statistics-probability-2) | 5 weeks | 6 - 8 hours/week | To Do
+[Introduction to Statistics: Inference](https://www.edx.org/course/introduction-to-statistics-inference-5) | 5 weeks | 6 - 8 hours/week | To Do
 
 
 ## Data Wrangling 
 Courses | Duration | Effort | Progress
 ------- | -------- | -------| -------- 
-[Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) | 5 months | 10 - 12 hours/week | In Progress
+[Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) | 8 weeks | 10 hours/week | To Do
 
 
 ## Big Data
 Courses | Duration | Effort | Progress
 ------- | -------- | -------| -------- 
-[Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) | 5 months | 10 - 12 hours/week | In Progress
-[Deploying a Hadoop Cluster](https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000) | 5 months | 10 - 12 hours/week | In Progress
+[Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) | 4 weeks | 6 hours/week | To Do
+[Deploying a Hadoop Cluster](https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000) | 3 weeks | 6 hours/week | To Do
 
 
 ## Coding
@@ -91,12 +94,15 @@ Courses | Duration | Effort | Progress
 
 
 ## Kaggle Projects in Python
-
+* 
+* 
 
 
 ## Books 
-* [R for Data Science](https://www.oreilly.com/library/view/r-for-data/9781491910382/)
-* [R in Action (2nd ed.)](https://www.manning.com/books/r-in-action-second-edition)
-* [Efficient R Programming](https://csgillespie.github.io/efficientR/)
-* [The Elements of Statistical Learning (2nd ed.)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/)
+Name | Progress
+---- | -------
+[R for Data Science](https://www.oreilly.com/library/view/r-for-data/9781491910382/) | To Do
+[R in Action (2nd ed.)](https://www.manning.com/books/r-in-action-second-edition) | To Do
+[Efficient R Programming](https://csgillespie.github.io/efficientR/) | To Do
+[The Elements of Statistical Learning (2nd ed.)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/) | To Do
 
