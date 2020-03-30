@@ -1,14 +1,17 @@
 # My Data Science Journey
-Path to my self-taught education in Data Science
+#### Path to my self-taught education in Data Science
 
 ### About
-A little bit about my background. 
+My name is David, lives in Ho Chi Minh City, the south of Vietnam. I've been working as a Project Manager at YOMI Studio for the last 5 years - a digital product agency that builds products to grow clients' businesses. Also, I focus my time and efforts to help build our own's products that gave me many valuable lessons.
 
-Why do I choose to pursue Data Science career path?
+When products grow, I find myself facing a new challenge that dealing with data. Some questions immediately come to my mind when having data are:
+* What to do with those data? 
+* What are the insights that can help bring more value to the product and the business?
+* How and where should we start?
+...
+One quote from Andrew Ng once said "Some of the most successful businesses succeed by exploiting their users." and I believe that's true, user-centric is the key and you have to understand your users to bring them more value, that will lead to the success of a business.
 
-### Content
-
-### Cirriculum
+This project is a place for me to keep track of my learning. Not all resources record here, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term).
 
 
 ### Math 
@@ -59,13 +62,13 @@ Courses | Duration | Effort | Progress
 [Data Analytics for Business](https://courses.edx.org/courses/course-v1:GTx+MGT6203x+1T2020/course/) | 5 months | 10 - 12 hours/week | In Progress
 [Introduction to Analytics Modeling]() | 5 months | 10 - 12 hours/week | Upcoming
 
-Capstone Projects
-
 ### Data Science E-Learning Mentor
 * [Virgilio](https://github.com/virgili0/Virgilio)
 
 ### Books 
-* [R for Data Science]
-* [R in Action (2nd ed.)]
-* [Efficient R Programming]
-* [The Elements of Statistical Learning (2nd ed.)]
+* [R for Data Science](https://www.oreilly.com/library/view/r-for-data/9781491910382/)
+* [R in Action (2nd ed.)](https://www.manning.com/books/r-in-action-second-edition)
+* [Efficient R Programming](https://csgillespie.github.io/efficientR/)
+* [The Elements of Statistical Learning (2nd ed.)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/)
+
+### Capstone Projects
